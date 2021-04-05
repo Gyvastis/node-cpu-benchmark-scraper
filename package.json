@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "node-fetch": "^2.6.1",
+    "scrape-it": "^5.3.1"
+  },
+  "name": "node-cpu-benchmark-scraper",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "scrape": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ServerSelect/node-cpu-benchmark-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ServerSelect/node-cpu-benchmark-scraper/issues"
+  },
+  "homepage": "https://github.com/ServerSelect/node-cpu-benchmark-scraper#readme"
+}
