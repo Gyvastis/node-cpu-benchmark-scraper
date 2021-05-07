@@ -582,7 +582,7 @@
         },
         {
             "cpu": "AMD A8-6500 APU",
-            "score": 2742
+            "score": 2754
         },
         {
             "cpu": "AMD A8-6500B APU",
@@ -3506,7 +3506,7 @@
         },
         {
             "cpu": "AMD Ryzen 7 3800X",
-            "score": 23337
+            "score": 23336
         },
         {
             "cpu": "AMD Ryzen 7 3800XT",
@@ -3638,7 +3638,7 @@
         },
         {
             "cpu": "AMD Ryzen 9 4900HS",
-            "score": 19713
+            "score": 19710
         },
         {
             "cpu": "AMD Ryzen 9 5900",
@@ -4210,7 +4210,7 @@
         },
         {
             "cpu": "Apple A14 Bionic",
-            "score": 8683
+            "score": 8684
         },
         {
             "cpu": "Apple A8",
@@ -4406,7 +4406,7 @@
         },
         {
             "cpu": "Hisilicon Kirin810",
-            "score": 3014
+            "score": 3019
         },
         {
             "cpu": "Hisilicon Kirin9000",
@@ -6094,7 +6094,7 @@
         },
         {
             "cpu": "Intel Core i3-6100U @ 2.30GHz",
-            "score": 2614
+            "score": 2615
         },
         {
             "cpu": "Intel Core i3-6102E @ 1.90GHz",
@@ -6270,7 +6270,7 @@
         },
         {
             "cpu": "Intel Core i5-10300H @ 2.50GHz",
-            "score": 8794
+            "score": 8793
         },
         {
             "cpu": "Intel Core i5-1030NG7 @ 1.10GHz",
@@ -6950,7 +6950,7 @@
         },
         {
             "cpu": "Intel Core i5-6300HQ @ 2.30GHz",
-            "score": 4669
+            "score": 4671
         },
         {
             "cpu": "Intel Core i5-6300U @ 2.40GHz",
@@ -7214,7 +7214,7 @@
         },
         {
             "cpu": "Intel Core i5-8600K @ 3.60GHz",
-            "score": 10144
+            "score": 10145
         },
         {
             "cpu": "Intel Core i5-8600T @ 2.30GHz",
@@ -7334,7 +7334,7 @@
         },
         {
             "cpu": "Intel Core i7-10750H @ 2.60GHz",
-            "score": 12573
+            "score": 12572
         },
         {
             "cpu": "Intel Core i7-10810U @ 1.10GHz",
@@ -7386,7 +7386,7 @@
         },
         {
             "cpu": "Intel Core i7-1185G7 @ 3.00GHz",
-            "score": 11252
+            "score": 11272
         },
         {
             "cpu": "Intel Core i7-1185G7E @ 2.80GHz",
@@ -7582,7 +7582,7 @@
         },
         {
             "cpu": "Intel Core i7-3770K @ 3.50GHz",
-            "score": 6419
+            "score": 6418
         },
         {
             "cpu": "Intel Core i7-3770S @ 3.10GHz",
@@ -7838,7 +7838,7 @@
         },
         {
             "cpu": "Intel Core i7-5500U @ 2.40GHz",
-            "score": 2727
+            "score": 2728
         },
         {
             "cpu": "Intel Core i7-5550U @ 2.00GHz",
@@ -8606,7 +8606,7 @@
         },
         {
             "cpu": "Intel Core2 Duo E6550 @ 2.33GHz",
-            "score": 870
+            "score": 864
         },
         {
             "cpu": "Intel Core2 Duo E6600 @ 2.40GHz",
@@ -9894,7 +9894,7 @@
         },
         {
             "cpu": "Intel Pentium N4200 @ 1.10GHz",
-            "score": 2148
+            "score": 2141
         },
         {
             "cpu": "Intel Pentium N6415 @ 1.20GHz",
@@ -10778,7 +10778,7 @@
         },
         {
             "cpu": "Intel Xeon E5-1650 @ 3.20GHz",
-            "score": 8084
+            "score": 8086
         },
         {
             "cpu": "Intel Xeon E5-1650 v2 @ 3.50GHz",
@@ -10946,7 +10946,7 @@
         },
         {
             "cpu": "Intel Xeon E5-2620 v2 @ 2.10GHz",
-            "score": 6205
+            "score": 6206
         },
         {
             "cpu": "Intel Xeon E5-2620 v3 @ 2.40GHz",
@@ -13234,7 +13234,7 @@
         },
         {
             "cpu": "Qualcomm Technologies, Inc SM8150",
-            "score": 3875
+            "score": 3876
         },
         {
             "cpu": "Qualcomm Technologies, Inc SM8150_Plus",
@@ -13338,7 +13338,7 @@
         },
         {
             "cpu": "Samsung Exynos 9810",
-            "score": 3162
+            "score": 3159
         },
         {
             "cpu": "Samsung Exynos 9820",
