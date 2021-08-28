@@ -362,7 +362,7 @@
         },
         {
             "cpu": "AMD A6-3420M APU",
-            "score": 1248
+            "score": 1250
         },
         {
             "cpu": "AMD A6-3430MX APU",
@@ -398,7 +398,7 @@
         },
         {
             "cpu": "AMD A6-5200 APU",
-            "score": 1632
+            "score": 1636
         },
         {
             "cpu": "AMD A6-5345M APU",
@@ -846,7 +846,7 @@
         },
         {
             "cpu": "AMD Athlon 64 X2 Dual Core 4600+",
-            "score": 716
+            "score": 724
         },
         {
             "cpu": "AMD Athlon 64 X2 Dual Core 4800+",
@@ -1586,7 +1586,7 @@
         },
         {
             "cpu": "AMD E-240",
-            "score": 188
+            "score": 162
         },
         {
             "cpu": "AMD E-300 APU",
@@ -1630,7 +1630,7 @@
         },
         {
             "cpu": "AMD E1-2500 APU",
-            "score": 581
+            "score": 583
         },
         {
             "cpu": "AMD E1-6010 APU",
@@ -1954,7 +1954,7 @@
         },
         {
             "cpu": "AMD FX-6200 Six-Core",
-            "score": 3999
+            "score": 4003
         },
         {
             "cpu": "AMD FX-6300 Six-Core",
@@ -1966,7 +1966,7 @@
         },
         {
             "cpu": "AMD FX-6350 Six-Core",
-            "score": 4484
+            "score": 4485
         },
         {
             "cpu": "AMD FX-670K Quad-Core",
@@ -2002,7 +2002,7 @@
         },
         {
             "cpu": "AMD FX-8150 Eight-Core",
-            "score": 5055
+            "score": 5057
         },
         {
             "cpu": "AMD FX-8300 Eight-Core",
@@ -2014,7 +2014,7 @@
         },
         {
             "cpu": "AMD FX-8320 Eight-Core",
-            "score": 5393
+            "score": 5392
         },
         {
             "cpu": "AMD FX-8320E Eight-Core",
@@ -2554,7 +2554,7 @@
         },
         {
             "cpu": "AMD Phenom 9150e Quad-Core",
-            "score": 1267
+            "score": 1300
         },
         {
             "cpu": "AMD Phenom 9350e Quad-Core",
@@ -2586,7 +2586,7 @@
         },
         {
             "cpu": "AMD Phenom 9750 Quad-Core",
-            "score": 1807
+            "score": 1798
         },
         {
             "cpu": "AMD Phenom 9750B Quad-Core",
@@ -3190,7 +3190,7 @@
         },
         {
             "cpu": "AMD Ryzen 3 3100",
-            "score": 11713
+            "score": 11711
         },
         {
             "cpu": "AMD Ryzen 3 3200G",
@@ -3214,7 +3214,7 @@
         },
         {
             "cpu": "AMD Ryzen 3 3300X",
-            "score": 12761
+            "score": 12762
         },
         {
             "cpu": "AMD Ryzen 3 3350U",
@@ -3302,7 +3302,7 @@
         },
         {
             "cpu": "AMD Ryzen 3 PRO 4450U",
-            "score": 9970
+            "score": 9987
         },
         {
             "cpu": "AMD Ryzen 3 PRO 5350G",
@@ -3350,7 +3350,7 @@
         },
         {
             "cpu": "AMD Ryzen 5 2600",
-            "score": 13214
+            "score": 13215
         },
         {
             "cpu": "AMD Ryzen 5 2600H",
@@ -3414,7 +3414,7 @@
         },
         {
             "cpu": "AMD Ryzen 5 3600X",
-            "score": 18310
+            "score": 18311
         },
         {
             "cpu": "AMD Ryzen 5 3600XT",
@@ -3426,7 +3426,7 @@
         },
         {
             "cpu": "AMD Ryzen 5 4600G",
-            "score": 15719
+            "score": 15709
         },
         {
             "cpu": "AMD Ryzen 5 4600GE",
@@ -3434,7 +3434,7 @@
         },
         {
             "cpu": "AMD Ryzen 5 4600H",
-            "score": 14798
+            "score": 14797
         },
         {
             "cpu": "AMD Ryzen 5 4600HS",
@@ -3446,11 +3446,11 @@
         },
         {
             "cpu": "AMD Ryzen 5 5500U",
-            "score": 13344
+            "score": 13359
         },
         {
             "cpu": "AMD Ryzen 5 5600G",
-            "score": 20070
+            "score": 20079
         },
         {
             "cpu": "AMD Ryzen 5 5600GE",
@@ -3458,7 +3458,7 @@
         },
         {
             "cpu": "AMD Ryzen 5 5600H",
-            "score": 17772
+            "score": 17743
         },
         {
             "cpu": "AMD Ryzen 5 5600U",
@@ -3566,7 +3566,7 @@
         },
         {
             "cpu": "AMD Ryzen 7 2700",
-            "score": 15693
+            "score": 15694
         },
         {
             "cpu": "AMD Ryzen 7 2700E",
@@ -3586,7 +3586,7 @@
         },
         {
             "cpu": "AMD Ryzen 7 3700U",
-            "score": 7358
+            "score": 7357
         },
         {
             "cpu": "AMD Ryzen 7 3700X",
@@ -3594,7 +3594,7 @@
         },
         {
             "cpu": "AMD Ryzen 7 3750H",
-            "score": 8358
+            "score": 8359
         },
         {
             "cpu": "AMD Ryzen 7 3780U",
@@ -3618,7 +3618,7 @@
         },
         {
             "cpu": "AMD Ryzen 7 4700U",
-            "score": 13744
+            "score": 13743
         },
         {
             "cpu": "AMD Ryzen 7 4800H",
@@ -3634,7 +3634,7 @@
         },
         {
             "cpu": "AMD Ryzen 7 5700G",
-            "score": 24519
+            "score": 24532
         },
         {
             "cpu": "AMD Ryzen 7 5700GE",
@@ -3642,19 +3642,19 @@
         },
         {
             "cpu": "AMD Ryzen 7 5700U",
-            "score": 16371
+            "score": 16362
         },
         {
             "cpu": "AMD Ryzen 7 5800",
-            "score": 26188
+            "score": 26190
         },
         {
             "cpu": "AMD Ryzen 7 5800H",
-            "score": 21753
+            "score": 21734
         },
         {
             "cpu": "AMD Ryzen 7 5800HS",
-            "score": 21166
+            "score": 21167
         },
         {
             "cpu": "AMD Ryzen 7 5800U",
@@ -3662,7 +3662,7 @@
         },
         {
             "cpu": "AMD Ryzen 7 5800X",
-            "score": 28491
+            "score": 28495
         },
         {
             "cpu": "AMD Ryzen 7 Extreme Edition",
@@ -3686,7 +3686,7 @@
         },
         {
             "cpu": "AMD Ryzen 7 PRO 2700X",
-            "score": 17016
+            "score": 17093
         },
         {
             "cpu": "AMD Ryzen 7 PRO 3700",
@@ -3746,7 +3746,7 @@
         },
         {
             "cpu": "AMD Ryzen 9 4900HS",
-            "score": 19608
+            "score": 19607
         },
         {
             "cpu": "AMD Ryzen 9 5900",
@@ -3762,11 +3762,11 @@
         },
         {
             "cpu": "AMD Ryzen 9 5900X",
-            "score": 39590
+            "score": 39594
         },
         {
             "cpu": "AMD Ryzen 9 5950X",
-            "score": 46111
+            "score": 46112
         },
         {
             "cpu": "AMD Ryzen 9 5980HS",
@@ -4146,7 +4146,7 @@
         },
         {
             "cpu": "AMD Turion II Dual-Core Mobile M520",
-            "score": 795
+            "score": 778
         },
         {
             "cpu": "AMD Turion II Dual-Core Mobile M540",
@@ -4306,7 +4306,7 @@
         },
         {
             "cpu": "Apple A11 Bionic",
-            "score": 4040
+            "score": 4043
         },
         {
             "cpu": "Apple A12 Bionic",
@@ -4318,11 +4318,11 @@
         },
         {
             "cpu": "Apple A13 Bionic",
-            "score": 4778
+            "score": 4777
         },
         {
             "cpu": "Apple A14 Bionic",
-            "score": 8527
+            "score": 8522
         },
         {
             "cpu": "Apple A8",
@@ -4334,7 +4334,7 @@
         },
         {
             "cpu": "Apple A9",
-            "score": 2060
+            "score": 2061
         },
         {
             "cpu": "Apple A9X",
@@ -4446,7 +4446,7 @@
         },
         {
             "cpu": "ARM Cortex-A72 4 Core 2100 MHz",
-            "score": 685
+            "score": 696
         },
         {
             "cpu": "ARM Cortex-A72 4 Core 2200 MHz",
@@ -4582,7 +4582,7 @@
         },
         {
             "cpu": "Hisilicon Kirin810",
-            "score": 2990
+            "score": 2983
         },
         {
             "cpu": "Hisilicon Kirin820",
@@ -5050,7 +5050,7 @@
         },
         {
             "cpu": "Intel Celeron 2950M @ 2.00GHz",
-            "score": 1260
+            "score": 1264
         },
         {
             "cpu": "Intel Celeron 2955U @ 1.40GHz",
@@ -5718,7 +5718,7 @@
         },
         {
             "cpu": "Intel Celeron N3450 @ 1.10GHz",
-            "score": 1930
+            "score": 1935
         },
         {
             "cpu": "Intel Celeron N4000 @ 1.10GHz",
@@ -5730,7 +5730,7 @@
         },
         {
             "cpu": "Intel Celeron N4020 @ 1.10GHz",
-            "score": 1607
+            "score": 1606
         },
         {
             "cpu": "Intel Celeron N4100 @ 1.10GHz",
@@ -5738,7 +5738,7 @@
         },
         {
             "cpu": "Intel Celeron N4120 @ 1.10GHz",
-            "score": 2510
+            "score": 2508
         },
         {
             "cpu": "Intel Celeron N4500 @ 1.10GHz",
@@ -5862,7 +5862,7 @@
         },
         {
             "cpu": "Intel Core i3-10100F @ 3.60GHz",
-            "score": 8785
+            "score": 8787
         },
         {
             "cpu": "Intel Core i3-10100T @ 3.00GHz",
@@ -5874,7 +5874,7 @@
         },
         {
             "cpu": "Intel Core i3-10105F @ 3.70GHz",
-            "score": 9114
+            "score": 9118
         },
         {
             "cpu": "Intel Core i3-10105T @ 3.00GHz",
@@ -6146,7 +6146,7 @@
         },
         {
             "cpu": "Intel Core i3-4030U @ 1.90GHz",
-            "score": 1883
+            "score": 1879
         },
         {
             "cpu": "Intel Core i3-4030Y @ 1.60GHz",
@@ -6174,7 +6174,7 @@
         },
         {
             "cpu": "Intel Core i3-4130T @ 2.90GHz",
-            "score": 2879
+            "score": 2874
         },
         {
             "cpu": "Intel Core i3-4150 @ 3.50GHz",
@@ -6314,7 +6314,7 @@
         },
         {
             "cpu": "Intel Core i3-6100U @ 2.30GHz",
-            "score": 2608
+            "score": 2607
         },
         {
             "cpu": "Intel Core i3-6102E @ 1.90GHz",
@@ -6338,7 +6338,7 @@
         },
         {
             "cpu": "Intel Core i3-7020U @ 2.30GHz",
-            "score": 2571
+            "score": 2572
         },
         {
             "cpu": "Intel Core i3-7100 @ 3.90GHz",
@@ -6354,7 +6354,7 @@
         },
         {
             "cpu": "Intel Core i3-7100U @ 2.40GHz",
-            "score": 2706
+            "score": 2704
         },
         {
             "cpu": "Intel Core i3-7101TE @ 3.40GHz",
@@ -6482,7 +6482,7 @@
         },
         {
             "cpu": "Intel Core i5-10210U @ 1.60GHz",
-            "score": 6757
+            "score": 6755
         },
         {
             "cpu": "Intel Core i5-10210Y @ 1.00GHz",
@@ -6490,7 +6490,7 @@
         },
         {
             "cpu": "Intel Core i5-10300H @ 2.50GHz",
-            "score": 8772
+            "score": 8771
         },
         {
             "cpu": "Intel Core i5-1030NG7 @ 1.10GHz",
@@ -6502,11 +6502,11 @@
         },
         {
             "cpu": "Intel Core i5-1035G1 @ 1.00GHz",
-            "score": 7876
+            "score": 7874
         },
         {
             "cpu": "Intel Core i5-1035G4 @ 1.10GHz",
-            "score": 8281
+            "score": 8286
         },
         {
             "cpu": "Intel Core i5-1035G7 @ 1.20GHz",
@@ -6518,11 +6518,11 @@
         },
         {
             "cpu": "Intel Core i5-10400 @ 2.90GHz",
-            "score": 12391
+            "score": 12393
         },
         {
             "cpu": "Intel Core i5-10400F @ 2.90GHz",
-            "score": 12464
+            "score": 12465
         },
         {
             "cpu": "Intel Core i5-10400H @ 2.60GHz",
@@ -6530,7 +6530,7 @@
         },
         {
             "cpu": "Intel Core i5-10400T @ 2.00GHz",
-            "score": 10117
+            "score": 10115
         },
         {
             "cpu": "Intel Core i5-10500 @ 3.10GHz",
@@ -6578,7 +6578,7 @@
         },
         {
             "cpu": "Intel Core i5-1135G7 @ 2.40GHz",
-            "score": 10065
+            "score": 10066
         },
         {
             "cpu": "Intel Core i5-11400 @ 2.60GHz",
@@ -6586,7 +6586,7 @@
         },
         {
             "cpu": "Intel Core i5-11400F @ 2.60GHz",
-            "score": 17828
+            "score": 17833
         },
         {
             "cpu": "Intel Core i5-11400H @ 2.70GHz",
@@ -6618,11 +6618,11 @@
         },
         {
             "cpu": "Intel Core i5-11600 @ 2.80GHz",
-            "score": 18030
+            "score": 18018
         },
         {
             "cpu": "Intel Core i5-11600K @ 3.90GHz",
-            "score": 20014
+            "score": 20018
         },
         {
             "cpu": "Intel Core i5-11600KF @ 3.90GHz",
@@ -6698,7 +6698,7 @@
         },
         {
             "cpu": "Intel Core i5-2500K @ 3.30GHz",
-            "score": 4086
+            "score": 4088
         },
         {
             "cpu": "Intel Core i5-2500S @ 2.70GHz",
@@ -6746,11 +6746,11 @@
         },
         {
             "cpu": "Intel Core i5-3210M @ 2.50GHz",
-            "score": 2435
+            "score": 2436
         },
         {
             "cpu": "Intel Core i5-3230M @ 2.60GHz",
-            "score": 2514
+            "score": 2515
         },
         {
             "cpu": "Intel Core i5-3317U @ 1.70GHz",
@@ -6850,7 +6850,7 @@
         },
         {
             "cpu": "Intel Core i5-3570 @ 3.40GHz",
-            "score": 4873
+            "score": 4874
         },
         {
             "cpu": "Intel Core i5-3570K @ 3.40GHz",
@@ -6898,7 +6898,7 @@
         },
         {
             "cpu": "Intel Core i5-4210U @ 1.70GHz",
-            "score": 2288
+            "score": 2289
         },
         {
             "cpu": "Intel Core i5-4210Y @ 1.50GHz",
@@ -6934,7 +6934,7 @@
         },
         {
             "cpu": "Intel Core i5-4300M @ 2.60GHz",
-            "score": 3006
+            "score": 3008
         },
         {
             "cpu": "Intel Core i5-4300U @ 1.90GHz",
@@ -6954,7 +6954,7 @@
         },
         {
             "cpu": "Intel Core i5-430M @ 2.27GHz",
-            "score": 1199
+            "score": 1197
         },
         {
             "cpu": "Intel Core i5-430UM @ 1.20GHz",
@@ -6998,11 +6998,11 @@
         },
         {
             "cpu": "Intel Core i5-4430S @ 2.70GHz",
-            "score": 3976
+            "score": 4008
         },
         {
             "cpu": "Intel Core i5-4440 @ 3.10GHz",
-            "score": 4689
+            "score": 4688
         },
         {
             "cpu": "Intel Core i5-4440S @ 2.80GHz",
@@ -7058,7 +7058,7 @@
         },
         {
             "cpu": "Intel Core i5-4590T @ 2.00GHz",
-            "score": 4022
+            "score": 4027
         },
         {
             "cpu": "Intel Core i5-460M @ 2.53GHz",
@@ -7154,11 +7154,11 @@
         },
         {
             "cpu": "Intel Core i5-5575R @ 2.80GHz",
-            "score": 5189
+            "score": 5204
         },
         {
             "cpu": "Intel Core i5-560M @ 2.67GHz",
-            "score": 1797
+            "score": 1800
         },
         {
             "cpu": "Intel Core i5-560UM @ 1.33GHz",
@@ -7242,7 +7242,7 @@
         },
         {
             "cpu": "Intel Core i5-6500T @ 2.50GHz",
-            "score": 4778
+            "score": 4782
         },
         {
             "cpu": "Intel Core i5-6500TE @ 2.30GHz",
@@ -7350,7 +7350,7 @@
         },
         {
             "cpu": "Intel Core i5-7600K @ 3.80GHz",
-            "score": 6853
+            "score": 6856
         },
         {
             "cpu": "Intel Core i5-7600T @ 2.80GHz",
@@ -7398,7 +7398,7 @@
         },
         {
             "cpu": "Intel Core i5-8265U @ 1.60GHz",
-            "score": 6125
+            "score": 6126
         },
         {
             "cpu": "Intel Core i5-8265UC @ 1.60GHz",
@@ -7410,11 +7410,11 @@
         },
         {
             "cpu": "Intel Core i5-8279U @ 2.40GHz",
-            "score": 8039
+            "score": 8044
         },
         {
             "cpu": "Intel Core i5-8300H @ 2.30GHz",
-            "score": 7536
+            "score": 7538
         },
         {
             "cpu": "Intel Core i5-8305G @ 2.80GHz",
@@ -7446,7 +7446,7 @@
         },
         {
             "cpu": "Intel Core i5-8500 @ 3.00GHz",
-            "score": 9607
+            "score": 9608
         },
         {
             "cpu": "Intel Core i5-8500B @ 3.00GHz",
@@ -7510,11 +7510,11 @@
         },
         {
             "cpu": "Intel Core i5-9600 @ 3.10GHz",
-            "score": 10622
+            "score": 10639
         },
         {
             "cpu": "Intel Core i5-9600K @ 3.70GHz",
-            "score": 10815
+            "score": 10809
         },
         {
             "cpu": "Intel Core i5-9600KF @ 3.70GHz",
@@ -7530,7 +7530,7 @@
         },
         {
             "cpu": "Intel Core i7-10510U @ 1.80GHz",
-            "score": 6913
+            "score": 6915
         },
         {
             "cpu": "Intel Core i7-10510Y @ 1.20GHz",
@@ -7546,11 +7546,11 @@
         },
         {
             "cpu": "Intel Core i7-1065G7 @ 1.30GHz",
-            "score": 8845
+            "score": 8843
         },
         {
             "cpu": "Intel Core i7-1068NG7 @ 2.30GHz",
-            "score": 10411
+            "score": 10387
         },
         {
             "cpu": "Intel Core i7-10700 @ 2.90GHz",
@@ -7558,11 +7558,11 @@
         },
         {
             "cpu": "Intel Core i7-10700F @ 2.90GHz",
-            "score": 16998
+            "score": 17001
         },
         {
             "cpu": "Intel Core i7-10700K @ 3.80GHz",
-            "score": 19458
+            "score": 19459
         },
         {
             "cpu": "Intel Core i7-10700KF @ 3.80GHz",
@@ -7578,7 +7578,7 @@
         },
         {
             "cpu": "Intel Core i7-10710U @ 1.10GHz",
-            "score": 10091
+            "score": 10100
         },
         {
             "cpu": "Intel Core i7-10750H @ 2.60GHz",
@@ -7590,15 +7590,15 @@
         },
         {
             "cpu": "Intel Core i7-10850H @ 2.70GHz",
-            "score": 12200
+            "score": 12151
         },
         {
             "cpu": "Intel Core i7-10870H @ 2.20GHz",
-            "score": 15393
+            "score": 15394
         },
         {
             "cpu": "Intel Core i7-10875H @ 2.30GHz",
-            "score": 15657
+            "score": 15656
         },
         {
             "cpu": "Intel Core i7-11370H @ 3.30GHz",
@@ -7622,11 +7622,11 @@
         },
         {
             "cpu": "Intel Core i7-11700F @ 2.50GHz",
-            "score": 21548
+            "score": 21550
         },
         {
             "cpu": "Intel Core i7-11700K @ 3.60GHz",
-            "score": 25043
+            "score": 25041
         },
         {
             "cpu": "Intel Core i7-11700KF @ 3.60GHz",
@@ -7634,7 +7634,7 @@
         },
         {
             "cpu": "Intel Core i7-11800H @ 2.30GHz",
-            "score": 21881
+            "score": 21901
         },
         {
             "cpu": "Intel Core i7-11850H @ 2.50GHz",
@@ -7642,7 +7642,7 @@
         },
         {
             "cpu": "Intel Core i7-1185G7 @ 3.00GHz",
-            "score": 10936
+            "score": 10945
         },
         {
             "cpu": "Intel Core i7-1185G7E @ 2.80GHz",
@@ -7838,7 +7838,7 @@
         },
         {
             "cpu": "Intel Core i7-3770K @ 3.50GHz",
-            "score": 6427
+            "score": 6428
         },
         {
             "cpu": "Intel Core i7-3770S @ 3.10GHz",
@@ -7854,7 +7854,7 @@
         },
         {
             "cpu": "Intel Core i7-3820QM @ 2.70GHz",
-            "score": 5675
+            "score": 5677
         },
         {
             "cpu": "Intel Core i7-3840QM @ 2.80GHz",
@@ -7934,7 +7934,7 @@
         },
         {
             "cpu": "Intel Core i7-4700MQ @ 2.40GHz",
-            "score": 5312
+            "score": 5314
         },
         {
             "cpu": "Intel Core i7-4702HQ @ 2.20GHz",
@@ -7942,7 +7942,7 @@
         },
         {
             "cpu": "Intel Core i7-4702MQ @ 2.20GHz",
-            "score": 5079
+            "score": 5084
         },
         {
             "cpu": "Intel Core i7-4710HQ @ 2.50GHz",
@@ -7982,7 +7982,7 @@
         },
         {
             "cpu": "Intel Core i7-4770 @ 3.40GHz",
-            "score": 7040
+            "score": 7039
         },
         {
             "cpu": "Intel Core i7-4770HQ @ 2.20GHz",
@@ -7990,7 +7990,7 @@
         },
         {
             "cpu": "Intel Core i7-4770K @ 3.50GHz",
-            "score": 7082
+            "score": 7083
         },
         {
             "cpu": "Intel Core i7-4770R @ 3.20GHz",
@@ -8034,7 +8034,7 @@
         },
         {
             "cpu": "Intel Core i7-4800MQ @ 2.70GHz",
-            "score": 5860
+            "score": 5866
         },
         {
             "cpu": "Intel Core i7-4810MQ @ 2.80GHz",
@@ -8110,7 +8110,7 @@
         },
         {
             "cpu": "Intel Core i7-5650U @ 2.20GHz",
-            "score": 3121
+            "score": 3124
         },
         {
             "cpu": "Intel Core i7-5675C @ 3.10GHz",
@@ -8178,7 +8178,7 @@
         },
         {
             "cpu": "Intel Core i7-640M @ 2.80GHz",
-            "score": 2035
+            "score": 2036
         },
         {
             "cpu": "Intel Core i7-640UM @ 1.20GHz",
@@ -8218,11 +8218,11 @@
         },
         {
             "cpu": "Intel Core i7-6700 @ 3.40GHz",
-            "score": 8056
+            "score": 8057
         },
         {
             "cpu": "Intel Core i7-6700HQ @ 2.60GHz",
-            "score": 6538
+            "score": 6540
         },
         {
             "cpu": "Intel Core i7-6700K @ 4.00GHz",
@@ -8290,7 +8290,7 @@
         },
         {
             "cpu": "Intel Core i7-7500U @ 2.70GHz",
-            "score": 3652
+            "score": 3651
         },
         {
             "cpu": "Intel Core i7-7560U @ 2.40GHz",
@@ -8302,7 +8302,7 @@
         },
         {
             "cpu": "Intel Core i7-7600U @ 2.80GHz",
-            "score": 3627
+            "score": 3631
         },
         {
             "cpu": "Intel Core i7-7660U @ 2.50GHz",
@@ -8322,7 +8322,7 @@
         },
         {
             "cpu": "Intel Core i7-7700T @ 2.90GHz",
-            "score": 7899
+            "score": 7835
         },
         {
             "cpu": "Intel Core i7-7740X @ 4.30GHz",
@@ -8378,7 +8378,7 @@
         },
         {
             "cpu": "Intel Core i7-8550U @ 1.80GHz",
-            "score": 5933
+            "score": 5934
         },
         {
             "cpu": "Intel Core i7-8557U @ 1.70GHz",
@@ -8426,7 +8426,7 @@
         },
         {
             "cpu": "Intel Core i7-8700 @ 3.20GHz",
-            "score": 13083
+            "score": 13084
         },
         {
             "cpu": "Intel Core i7-8700B @ 3.20GHz",
@@ -8434,7 +8434,7 @@
         },
         {
             "cpu": "Intel Core i7-8700K @ 3.70GHz",
-            "score": 13890
+            "score": 13889
         },
         {
             "cpu": "Intel Core i7-8700T @ 2.40GHz",
@@ -8458,7 +8458,7 @@
         },
         {
             "cpu": "Intel Core i7-8750H @ 2.20GHz",
-            "score": 10136
+            "score": 10137
         },
         {
             "cpu": "Intel Core i7-875K @ 2.93GHz",
@@ -8534,7 +8534,7 @@
         },
         {
             "cpu": "Intel Core i7-9700T @ 2.00GHz",
-            "score": 10642
+            "score": 10696
         },
         {
             "cpu": "Intel Core i7-9700TE @ 1.80GHz",
@@ -8546,7 +8546,7 @@
         },
         {
             "cpu": "Intel Core i7-9750H @ 2.60GHz",
-            "score": 11295
+            "score": 11294
         },
         {
             "cpu": "Intel Core i7-9750HF @ 2.60GHz",
@@ -8594,11 +8594,11 @@
         },
         {
             "cpu": "Intel Core i9-10885H @ 2.40GHz",
-            "score": 15924
+            "score": 15926
         },
         {
             "cpu": "Intel Core i9-10900 @ 2.80GHz",
-            "score": 20838
+            "score": 20834
         },
         {
             "cpu": "Intel Core i9-10900F @ 2.80GHz",
@@ -8610,7 +8610,7 @@
         },
         {
             "cpu": "Intel Core i9-10900KF @ 3.70GHz",
-            "score": 23791
+            "score": 23793
         },
         {
             "cpu": "Intel Core i9-10900T @ 1.90GHz",
@@ -8650,15 +8650,15 @@
         },
         {
             "cpu": "Intel Core i9-11900F @ 2.50GHz",
-            "score": 23827
+            "score": 23916
         },
         {
             "cpu": "Intel Core i9-11900H @ 2.50GHz",
-            "score": 23148
+            "score": 23053
         },
         {
             "cpu": "Intel Core i9-11900K @ 3.50GHz",
-            "score": 25530
+            "score": 25535
         },
         {
             "cpu": "Intel Core i9-11900KB @ 3.30GHz",
@@ -8678,11 +8678,11 @@
         },
         {
             "cpu": "Intel Core i9-11980HK @ 2.60GHz",
-            "score": 23442
+            "score": 23530
         },
         {
             "cpu": "Intel Core i9-7900X @ 3.30GHz",
-            "score": 21427
+            "score": 21433
         },
         {
             "cpu": "Intel Core i9-7920X @ 2.90GHz",
@@ -8694,7 +8694,7 @@
         },
         {
             "cpu": "Intel Core i9-7960X @ 2.80GHz",
-            "score": 27149
+            "score": 26629
         },
         {
             "cpu": "Intel Core i9-7980XE @ 2.60GHz",
@@ -8702,7 +8702,7 @@
         },
         {
             "cpu": "Intel Core i9-8950HK @ 2.90GHz",
-            "score": 10918
+            "score": 10914
         },
         {
             "cpu": "Intel Core i9-9820X @ 3.30GHz",
@@ -8710,7 +8710,7 @@
         },
         {
             "cpu": "Intel Core i9-9880H @ 2.30GHz",
-            "score": 14045
+            "score": 14048
         },
         {
             "cpu": "Intel Core i9-9900 @ 3.10GHz",
@@ -8814,7 +8814,7 @@
         },
         {
             "cpu": "Intel Core m7-6Y75 @ 1.20GHz",
-            "score": 2328
+            "score": 2264
         },
         {
             "cpu": "Intel Core Solo T1300 @ 1.66GHz",
@@ -9322,7 +9322,7 @@
         },
         {
             "cpu": "Intel Core2 Quad Q9100 @ 2.26GHz",
-            "score": 1923
+            "score": 1637
         },
         {
             "cpu": "Intel Core2 Quad Q9300 @ 2.50GHz",
@@ -9394,7 +9394,7 @@
         },
         {
             "cpu": "Intel Pentium 3556U @ 1.70GHz",
-            "score": 992
+            "score": 996
         },
         {
             "cpu": "Intel Pentium 3558U @ 1.70GHz",
@@ -10574,7 +10574,7 @@
         },
         {
             "cpu": "Intel Xeon E-2176M @ 2.70GHz",
-            "score": 10978
+            "score": 10942
         },
         {
             "cpu": "Intel Xeon E-2186G @ 3.80GHz",
@@ -10762,7 +10762,7 @@
         },
         {
             "cpu": "Intel Xeon E3-1240 v3 @ 3.40GHz",
-            "score": 6984
+            "score": 6992
         },
         {
             "cpu": "Intel Xeon E3-1240 v5 @ 3.50GHz",
@@ -10918,7 +10918,7 @@
         },
         {
             "cpu": "Intel Xeon E3-1281 v3 @ 3.70GHz",
-            "score": 7210
+            "score": 7209
         },
         {
             "cpu": "Intel Xeon E3-1285 v3 @ 3.60GHz",
@@ -10966,7 +10966,7 @@
         },
         {
             "cpu": "Intel Xeon E3-1505M v5 @ 2.80GHz",
-            "score": 7083
+            "score": 7037
         },
         {
             "cpu": "Intel Xeon E3-1505M v6 @ 3.00GHz",
@@ -11246,7 +11246,7 @@
         },
         {
             "cpu": "Intel Xeon E5-2620 v2 @ 2.10GHz",
-            "score": 6215
+            "score": 6219
         },
         {
             "cpu": "Intel Xeon E5-2620 v3 @ 2.40GHz",
@@ -11478,7 +11478,7 @@
         },
         {
             "cpu": "Intel Xeon E5-2670 @ 2.60GHz",
-            "score": 8954
+            "score": 8953
         },
         {
             "cpu": "Intel Xeon E5-2670 v2 @ 2.50GHz",
@@ -11530,7 +11530,7 @@
         },
         {
             "cpu": "Intel Xeon E5-2680 v3 @ 2.50GHz",
-            "score": 15484
+            "score": 15496
         },
         {
             "cpu": "Intel Xeon E5-2680 v4 @ 2.40GHz",
@@ -11862,7 +11862,7 @@
         },
         {
             "cpu": "Intel Xeon E5620 @ 2.40GHz",
-            "score": 3709
+            "score": 3702
         },
         {
             "cpu": "Intel Xeon E5630 @ 2.53GHz",
@@ -12814,7 +12814,7 @@
         },
         {
             "cpu": "MediaTek MT6762V/WR",
-            "score": 1319
+            "score": 1324
         },
         {
             "cpu": "MediaTek MT6763V/CE",
@@ -12866,7 +12866,7 @@
         },
         {
             "cpu": "MediaTek MT6771V/CT",
-            "score": 2176
+            "score": 2178
         },
         {
             "cpu": "MediaTek MT6771V/W",
@@ -13250,7 +13250,7 @@
         },
         {
             "cpu": "MT6769V/CT",
-            "score": 2140
+            "score": 2151
         },
         {
             "cpu": "MT6769V/CZ",
@@ -13282,7 +13282,7 @@
         },
         {
             "cpu": "MT6833",
-            "score": 2933
+            "score": 2934
         },
         {
             "cpu": "MT6833V/NZA",
@@ -13298,7 +13298,7 @@
         },
         {
             "cpu": "MT6853V/TNZA",
-            "score": 3081
+            "score": 3091
         },
         {
             "cpu": "MT6875",
@@ -13318,7 +13318,7 @@
         },
         {
             "cpu": "MT6893Z_A/CZA",
-            "score": 4934
+            "score": 4998
         },
         {
             "cpu": "MT6969T",
@@ -13498,7 +13498,7 @@
         },
         {
             "cpu": "Qualcomm Snapdragon 8350",
-            "score": 4608
+            "score": 4609
         },
         {
             "cpu": "Qualcomm Technologies, Inc APQ8009",
@@ -13526,11 +13526,11 @@
         },
         {
             "cpu": "Qualcomm Technologies, Inc ATOLL-AB",
-            "score": 2737
+            "score": 2741
         },
         {
             "cpu": "Qualcomm Technologies, Inc BENGAL",
-            "score": 2116
+            "score": 2114
         },
         {
             "cpu": "Qualcomm Technologies, Inc BENGALP",
@@ -13538,7 +13538,7 @@
         },
         {
             "cpu": "Qualcomm Technologies, Inc KONA",
-            "score": 4837
+            "score": 4838
         },
         {
             "cpu": "Qualcomm Technologies, Inc LAGOON",
@@ -13582,7 +13582,7 @@
         },
         {
             "cpu": "Qualcomm Technologies, Inc MSM8940",
-            "score": 878
+            "score": 876
         },
         {
             "cpu": "Qualcomm Technologies, Inc MSM8952",
@@ -13622,7 +13622,7 @@
         },
         {
             "cpu": "Qualcomm Technologies, Inc MSM8998",
-            "score": 2386
+            "score": 2385
         },
         {
             "cpu": "Qualcomm Technologies, Inc QCM2150",
@@ -13658,7 +13658,7 @@
         },
         {
             "cpu": "Qualcomm Technologies, Inc SDM630",
-            "score": 1689
+            "score": 1693
         },
         {
             "cpu": "Qualcomm Technologies, Inc SDM632",
@@ -13670,7 +13670,7 @@
         },
         {
             "cpu": "Qualcomm Technologies, Inc SDM660",
-            "score": 2035
+            "score": 2037
         },
         {
             "cpu": "Qualcomm Technologies, Inc SDM662",
@@ -13690,7 +13690,7 @@
         },
         {
             "cpu": "Qualcomm Technologies, Inc SDM712",
-            "score": 2188
+            "score": 2192
         },
         {
             "cpu": "Qualcomm Technologies, Inc SDM720G",
@@ -13734,15 +13734,15 @@
         },
         {
             "cpu": "Qualcomm Technologies, Inc SM7125",
-            "score": 2819
+            "score": 2818
         },
         {
             "cpu": "Qualcomm Technologies, Inc SM7150",
-            "score": 2689
+            "score": 2686
         },
         {
             "cpu": "Qualcomm Technologies, Inc SM7225",
-            "score": 3074
+            "score": 3072
         },
         {
             "cpu": "Qualcomm Technologies, Inc SM7250",
@@ -13750,7 +13750,7 @@
         },
         {
             "cpu": "Qualcomm Technologies, Inc SM8150",
-            "score": 3820
+            "score": 3819
         },
         {
             "cpu": "Qualcomm Technologies, Inc SM8150_Plus",
@@ -13770,7 +13770,7 @@
         },
         {
             "cpu": "Qualcomm Technologies, Inc TRINKET",
-            "score": 2091
+            "score": 2084
         },
         {
             "cpu": "Renoir based on Qualcomm Technologies, Inc SM7350",
@@ -13778,7 +13778,7 @@
         },
         {
             "cpu": "Rockchip (Device Tree)",
-            "score": 636
+            "score": 574
         },
         {
             "cpu": "Rockchip RK3229",
@@ -13842,7 +13842,7 @@
         },
         {
             "cpu": "Samsung Exynos 7904",
-            "score": 1614
+            "score": 1616
         },
         {
             "cpu": "Samsung Exynos 8890",
@@ -13994,7 +13994,7 @@
         },
         {
             "cpu": "Venus based on Qualcomm Technologies, Inc SM8350",
-            "score": 4858
+            "score": 4851
         },
         {
             "cpu": "VIA C7-D 1800MHz",
