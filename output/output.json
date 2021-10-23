@@ -30,7 +30,7 @@
         },
         {
             "cpu": "AC8257V/WAB",
-            "score": 677
+            "score": 707
         },
         {
             "cpu": "AMD 3015Ce",
@@ -4354,7 +4354,7 @@
         },
         {
             "cpu": "Apple A14 Bionic",
-            "score": 8527
+            "score": 8526
         },
         {
             "cpu": "Apple A8",
@@ -6266,7 +6266,7 @@
         },
         {
             "cpu": "Intel Core i3-4170 @ 3.70GHz",
-            "score": 3580
+            "score": 3581
         },
         {
             "cpu": "Intel Core i3-4170T @ 3.20GHz",
@@ -6670,7 +6670,7 @@
         },
         {
             "cpu": "Intel Core i5-1145G7 @ 2.60GHz",
-            "score": 10823
+            "score": 10846
         },
         {
             "cpu": "Intel Core i5-1145G7E @ 2.60GHz",
@@ -8498,7 +8498,7 @@
         },
         {
             "cpu": "Intel Core i7-8665U @ 1.90GHz",
-            "score": 6509
+            "score": 6511
         },
         {
             "cpu": "Intel Core i7-8665UE @ 1.70GHz",
@@ -8750,7 +8750,7 @@
         },
         {
             "cpu": "Intel Core i9-11900KF @ 3.50GHz",
-            "score": 25638
+            "score": 25632
         },
         {
             "cpu": "Intel Core i9-11900T @ 1.50GHz",
@@ -10318,7 +10318,7 @@
         },
         {
             "cpu": "Intel Pentium Silver N6005 @ 2.00GHz",
-            "score": 4109
+            "score": 4143
         },
         {
             "cpu": "Intel Pentium SU2700 @ 1.30GHz",
@@ -11902,7 +11902,7 @@
         },
         {
             "cpu": "Intel Xeon E5450 @ 3.00GHz",
-            "score": 2446
+            "score": 2447
         },
         {
             "cpu": "Intel Xeon E5462 @ 2.80GHz",
